@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SortaSum",
+            "request": "launch",
+            "mainClass": "SortaSum"
+        }
+    ]
+}
