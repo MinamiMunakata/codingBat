@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Sum3",
+            "request": "launch",
+            "mainClass": "Sum3"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SortaSum",
             "request": "launch",
             "mainClass": "SortaSum"
